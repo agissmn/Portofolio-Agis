@@ -1,2 +1,2 @@
 # Portofolio-Agis
-Tugas Portofolio Mata Kuliah Pemrograman Web
+Tugas Portofolio only HTML Mata Kuliah Pemrograman Web
